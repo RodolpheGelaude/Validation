@@ -1,0 +1,19 @@
+{
+    "name": "RodolpheGelaude/Validation.class.php",
+    "description": "Class de validation php",
+    "type": "library",
+    "keywords": ["Validation", "formulaire", "form", "php"],
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Rodolphe Gélaude",
+            "email": "rodolphe@gelaude.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": ["src/Validation.class.php"]
+    }
+}
